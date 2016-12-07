@@ -7,3 +7,7 @@ out/
 *.ipr
 *.iws
 /bin/
+
+.classpath
+.project
+.settings/
